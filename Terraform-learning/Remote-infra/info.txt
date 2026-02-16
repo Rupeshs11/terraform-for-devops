@@ -1,0 +1,3 @@
+create a remote backend on s3
+link it with dyanamodb
+and let go local tfstate
