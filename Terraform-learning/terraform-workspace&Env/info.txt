@@ -1,7 +1,0 @@
-workspaces
-
-enviorment
-
-managing multi enviroments(dev,stagging,prod)
-
-creating and switching Workspaces
