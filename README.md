@@ -20,12 +20,13 @@ A hands-on, progressive Terraform learning path — from setting up a provider t
 
 ## Beyond Labs
 
-| Section                                                          | Description                                                                 |
-| ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Terraform Modules](./Terraform-learning/terraform-modules)      | Concepts guide — registry modules, custom module structure & best practices |
-| [Custom Modules](./Terraform-learning/Custom_Modules)            | Hands-on reusable module for multi-environment infra (dev/staging/prod)     |
-| [Remote Backend](./Terraform-learning/Remote-infra)              | Setting up S3 + DynamoDB for remote state storage & locking                 |
-| [Workspaces & Env](./Terraform-learning/terraform-workspace&Env) | Managing multiple environments using Terraform Workspaces                   |
+| Section                                                          | Description                                                                    |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [Terraform Modules](./Terraform-learning/terraform-modules)      | Concepts guide — registry modules, custom module structure & best practices    |
+| [Custom Modules](./Terraform-learning/Custom_Modules)            | Hands-on reusable module for multi-environment infra (dev/staging/prod)        |
+| [Remote Backend](./Terraform-learning/Remote-infra)              | Setting up S3 + DynamoDB for remote state storage & locking                    |
+| [Workspaces & Env](./Terraform-learning/terraform-workspace&Env) | Managing multiple environments using Terraform Workspaces                      |
+| [Terraform EKS](./terraform-eks)                                 | Provisioning an AWS EKS cluster with VPC, managed node groups (SPOT) & add-ons |
 
 ## Prerequisites
 
